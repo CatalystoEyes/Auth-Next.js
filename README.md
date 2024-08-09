@@ -13,7 +13,8 @@ This is a fullstack Next.js application using Prisma with MongoDB for database m
 
 ```bash
 git clone https://github.com/CatalystoEyes/Auth-Next.js.git
-cd Auth-Next.js```
+cd Auth-Next.js
+```
 
 ### 2. Install dependencies
 ```npm i```

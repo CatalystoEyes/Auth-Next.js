@@ -1,13 +1,12 @@
-import { MainCard } from "./Components/Card";
+import Body from "./Components/Body";
 import Header from "./Components/Header";
-
 
 export default function Home() {
   return (
     <div className="min-h-screen flex flex-col">
       <Header />
       <div className="flex-grow flex items-center justify-center">
-        <MainCard />
+        <Body />
       </div>
     </div>
   );

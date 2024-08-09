@@ -20,4 +20,4 @@ cd Auth-Next.js
 ```npm i```
 
 ### 3. Run docker Image
-```docker run -p 3000:3000 -e DATABASE_URL="mongodb+srv://username:password@cluster.mongodb.net/database?retryWrites=true&w=majority" Auth-Next.js```
+```docker run -p 3000:3000 -e DATABASE_URL="your_mongo_url```
